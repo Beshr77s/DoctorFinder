@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "616515424563",
+    "firebase_url": "https://coding-21525-default-rtdb.firebaseio.com",
+    "project_id": "coding-21525",
+    "storage_bucket": "coding-21525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616515424563:android:3ec2ab60133c99655fae46",
+        "android_client_info": {
+          "package_name": "com.elmobarmij.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616515424563-5scssr4f9encedh2mb5bg7mfhlii5qlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegRIvk9ekcrmdHjWFnTKhBU12oFEj0zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616515424563-5scssr4f9encedh2mb5bg7mfhlii5qlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616515424563:android:b93b42db5c1071ca5fae46",
+        "android_client_info": {
+          "package_name": "com.qashar.addusertocoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616515424563-5scssr4f9encedh2mb5bg7mfhlii5qlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegRIvk9ekcrmdHjWFnTKhBU12oFEj0zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616515424563-5scssr4f9encedh2mb5bg7mfhlii5qlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616515424563:android:a5ef5f8a9de7b7a25fae46",
+        "android_client_info": {
+          "package_name": "com.qashar.coding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616515424563-5scssr4f9encedh2mb5bg7mfhlii5qlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegRIvk9ekcrmdHjWFnTKhBU12oFEj0zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616515424563-5scssr4f9encedh2mb5bg7mfhlii5qlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
